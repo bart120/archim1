@@ -118,24 +118,25 @@ Pour tout autre type de fichier, veuillez demander à l'enseignant si son inclus
 La soutenance dure 20 minutes durant lesquelles les membres présentent leur travail. Un échange de questions peut se faire entre le professeur et les membres du groupe.
 
 Les groupes sont les suivants:
-- 
-- 
-- 
-- 
-- 
-- 
+- KREUWEN Julie
+- RASOLOSON Manda
+- MANAVANAHA Han Noa
+- AMADOU Enora, ASSE AKAKPO Anaïs
+- YOUSSOUFA Ilyes, FENEROL Miguel
+- JOURDAN Kyllian, HADJ RABAH Zine Eddine
+- PATINVOH Deo-gratias, MIAN Loick
+- ZATO ALI Nazir
 
 Les horaires de passage des groupes sont les suivants:
-- 10h15 => 
-- 10h45 => 
-- 11h15 => 
-- 11h45 => 
-- 12h15 => 
-- 12h45 => 
-- 14h15 => 
-- 14h45 => 
-- 15h15 => 
-- 15h45 => 
+- 10h15 => YOUSSOUFA Ilyes, FENEROL Miguel
+- 10h45 => RASOLOSON Manda
+- 11h15 => PATINVOH Deo-gratias, MIAN Loick
+- 11h45 => MANAVANAHA Han Noa
+- 12h15 => AMADOU Enora, ASSE AKAKPO Anaïs
+- 14h15 => KREUWEN Julie
+- 14h45 => JOURDAN Kyllian, HADJ RABAH Zine Eddine
+- 15h15 => ZATO ALI Nazir
+
 
 
 Pour ceux dont le groupe n'est pas dans la liste, contactez-moi très rapidement à vincent.leclerc@ynov.com
